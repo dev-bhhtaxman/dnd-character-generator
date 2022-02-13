@@ -1,0 +1,1 @@
+mood_list = ['angry','sad','happy','afraid','surprised','disgusted','contempt','love','lust','shy','rage','trust','anticipation','indifference','amusement','anxious','awe','interest','envious','admiration']
